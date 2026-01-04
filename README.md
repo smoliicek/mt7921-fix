@@ -139,7 +139,7 @@ sudo dracut --force --verbose
 sudo reboot
 ```
 
-### Arch & friends
+#### Arch & friends
 
 ``` bash
 sudo mkinitcpio -P
